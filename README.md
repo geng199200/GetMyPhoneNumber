@@ -1,2 +1,2 @@
-# Staudy_KVO_KVC_CoreData
-研究KVO KVC，探究如何高效方便的使用它们。
+# 测试图
+![](https://github.com/geng199200/myspecifically/blob/master/git_image/git_tip.jpeg)
